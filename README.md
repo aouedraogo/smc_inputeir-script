@@ -1,1 +1,0 @@
-# smc_inputeir-script
